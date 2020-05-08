@@ -1,4 +1,3 @@
-site_name: Hello
+site_name: prune
 nav:
-        - Readme: README.md 
 theme: readthedocs 
