@@ -1,2 +1,4 @@
 site_name: Hello
+        nav:
+        - README.md 
 theme: readthedocs 
